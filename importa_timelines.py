@@ -1,6 +1,6 @@
 import os
 #Esse módulo importa para um projeto do DaVinci Resolve timelines no formato fcpxml ainda não importadas neste projeto.
-#vai
+#vaie
 arquivos = []
 extensao = ".fcpxml" #precisa ser fcpxml, pois timelines xml não foram importadas (versão 18.5 estável do DaVinci)
 pasta = r"D:\Curso Python programação e machine learning para iniciantes\Gravações"
